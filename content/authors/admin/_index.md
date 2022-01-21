@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Friedrich–Alexander University Erlangen–Nürnberg
+    url: https://www.fau.de/
 education:
   courses:
     - course: PhD in Artificial Intelligence
