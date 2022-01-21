@@ -1,7 +1,7 @@
 ---
 title: Maxim Lukin
 role: "M.Sc. Student, Computational and Applied Mathematics, FAU "
-avatar_filename: av.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -42,9 +42,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Being a person with a strong mathematical understanding of the methods used in simulation modelling,\
+as well as experience in structural mechanics, I am going to get a master’s degree at a German university.\
+I assume it will expand my professional horizons. Also, I am proud to have advanced knowledge of speaking and writing English, and I still continue attending the German courses. I am a flexible person for different projects in all sectors of modelling and structural analysis.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Working for leading German company would widen my perspectives by giving me incomparable to anything experience in innovative composing and allow me to start my international career. Your company would give me an opportunity to reveal myself as a part of a professional team.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
