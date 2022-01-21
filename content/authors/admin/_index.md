@@ -1,6 +1,6 @@
 ---
 title: Maxim Lukin
-role: "M.Sc. Student, Computational and Applied Mathematics, FAU "
+role: "M.Sc. Student, Computational and Applied Mathematics at "
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
