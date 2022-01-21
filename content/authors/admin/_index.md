@@ -31,9 +31,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ max lukin
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -46,6 +43,8 @@ social:
 organizations:
   - name: Friedrich–Alexander University Erlangen–Nürnberg
     url: https://www.fau.de/
+  - url: https://mgsu.ru/en/
+    name: "Moscow State University of Civil Engineering "
 education:
   courses:
     - course: PhD in Artificial Intelligence
